@@ -1,0 +1,11 @@
+C:\Users\insoa\Downloads\Pingpong\Pingpong\bin\Debug\Pingpong.exe.config
+C:\Users\insoa\Downloads\Pingpong\Pingpong\bin\Debug\Pingpong.exe
+C:\Users\insoa\Downloads\Pingpong\Pingpong\bin\Debug\Pingpong.pdb
+C:\Users\insoa\Downloads\Pingpong\Pingpong\obj\Debug\Pingpong.csprojAssemblyReference.cache
+C:\Users\insoa\Downloads\Pingpong\Pingpong\obj\Debug\Pingpong.Form1.resources
+C:\Users\insoa\Downloads\Pingpong\Pingpong\obj\Debug\Pingpong.Properties.Resources.resources
+C:\Users\insoa\Downloads\Pingpong\Pingpong\obj\Debug\Pingpong.SettingsForm.resources
+C:\Users\insoa\Downloads\Pingpong\Pingpong\obj\Debug\Pingpong.csproj.GenerateResource.cache
+C:\Users\insoa\Downloads\Pingpong\Pingpong\obj\Debug\Pingpong.csproj.CoreCompileInputs.cache
+C:\Users\insoa\Downloads\Pingpong\Pingpong\obj\Debug\Pingpong.exe
+C:\Users\insoa\Downloads\Pingpong\Pingpong\obj\Debug\Pingpong.pdb
