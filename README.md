@@ -6,6 +6,8 @@
 ![](https://img.shields.io/github/license/MiChaelinzo/PingPong)
 ![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FMiChaelinzo%2FPingPong%2F)
 
+![Image of PingPong](https://github.com/MiChaelinzo/PingPong/blob/master/PingPong.jpg)
+
 #### A simple PingPong Game
 
 #### Run the application Pingpong.exe
